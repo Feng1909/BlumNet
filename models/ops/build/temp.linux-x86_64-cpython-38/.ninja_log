@@ -1,0 +1,4 @@
+# ninja log v5
+0	3606	1672368852129656556	/home/feng1909/BlumNet/models/ops/build/temp.linux-x86_64-cpython-38/home/feng1909/BlumNet/models/ops/src/cpu/ms_deform_attn_cpu.o	1c5e74b68d3d5b8d
+0	11283	1672368859803921250	/home/feng1909/BlumNet/models/ops/build/temp.linux-x86_64-cpython-38/home/feng1909/BlumNet/models/ops/src/cuda/ms_deform_attn_cuda.o	f95352936944646a
+0	16289	1672368864808538332	/home/feng1909/BlumNet/models/ops/build/temp.linux-x86_64-cpython-38/home/feng1909/BlumNet/models/ops/src/vision.o	2a55c5bc767f0a92
